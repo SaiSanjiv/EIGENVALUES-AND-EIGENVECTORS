@@ -16,7 +16,7 @@ End the program
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
-#Developed by: Sai Sanjiv8125
+#Developed by: Sai Sanjiv R
 #RegisterNumber: 212223230179
 import numpy as np
 a=np.array([[4,2],[2,4]])
